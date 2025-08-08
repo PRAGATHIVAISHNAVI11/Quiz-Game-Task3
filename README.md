@@ -1,6 +1,6 @@
 # 🎯 Fun Quiz Game with Continuous Particle Animation
 
-An interactive quiz game built as **Task 1 for the ApexPlanet Internship**, using **HTML, CSS, and JavaScript** with a continuously animated particle background.
+An interactive quiz game built as *Task 1 for the ApexPlanet Internship*, using *HTML, CSS, and JavaScript* with a continuously animated particle background.
 
 ---
 
@@ -14,7 +14,7 @@ An interactive quiz game built as **Task 1 for the ApexPlanet Internship**, usin
 ---
 
 ## 🚀 Live Demo
-🔗 [Click here to play the quiz!](https://PRAGATHIVAISHNAVI11.github.io/fun-quiz-game/)
+🔗 [Click here to play the quiz!](https://pragathivaishnavi11.github.io/Quiz-Game-Task1/)
 
 ---
 
@@ -26,7 +26,3 @@ An interactive quiz game built as **Task 1 for the ApexPlanet Internship**, usin
 
 ---
 
-## 📦 Installation & Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/PRAGATHIVAISHNAVI11/fun-quiz-game.git
